@@ -18,7 +18,7 @@ https://arxiv.org/html/2507.16585v1
 ### paper:
 > crq:拓展这一部分的论文
 
-JDD: https://yuanxzhang.github.io/paper/jdd-oakland24.pd  
+JDD: https://yuanxzhang.github.io/paper/jdd-oakland24.pdf  
  
 
 
